@@ -7,3 +7,5 @@ Ce fichier READ ME se trouve dans le repository jlsxi.
 Le present fichier "README.md" est le 1er fichier que j'aurai du créé à la suite du repo jlsxi.
   je ne l'ai créé que le 23 aout 2025, en suivant toujours le tutoriel video de GWEN F.
   
+De mon compte github jlsxi, ce fichier "readme" est le premier fichier cloner de github sur ma machine locale, que je modifie a partir de ma machine locale;
+dans l'objectif de faire repercuter cette modification dans github remote: 1er tentative git push.
